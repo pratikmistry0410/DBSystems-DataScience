@@ -11,11 +11,11 @@ Code files for Web Application Development: PHP (Backend), HTML,CSS and JavaScri
 
 
 Marks for all the homeworks and Final Project:
-Homework 1: 9/10
-Homework 2: 9/10
-Homework 3: 10/10
-Homework 4: 10/10
-Homework (total for all assignments/homeworks except first 4): 126/135
-Final Project: 37/40
+  Homework 1: 9/10
+  Homework 2: 9/10
+  Homework 3: 10/10
+  Homework 4: 10/10
+  Homework (total for all assignments/homeworks except first 4): 126/135
+  Final Project: 37/40
 
 Please post questions if you have any doubt on any of the details.
